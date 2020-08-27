@@ -26,4 +26,4 @@
 
 -- TODO: UPPER CASE AND LOWER CASE
 
-SELECT UPPER(stu_fname), LOWER(stu_lname) FROM students;
+-- SELECT UPPER(stu_fname), LOWER(stu_lname) FROM students;
